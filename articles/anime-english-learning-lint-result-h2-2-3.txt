@@ -1,0 +1,31 @@
+============================================================
+lint.sh(nmanablog) — anime-english-learning-body-h2-2-3.html
+============================================================
+Manual lint check results (lint.sh unavailable via current tools)
+
+[CHECKED] 禁止ワード: 該当なし
+[CHECKED] AI表現: 該当なし (効果的です/おすすめです/おすすめします/一気に 等なし)
+[CHECKED] 比喩表現: 該当なし
+[CHECKED] 後述系: 該当なし
+[CHECKED] 冗長表現「という」: 0箇所 (上限3)
+[CHECKED] 指示語: 該当なし
+[CHECKED] 「ことです」: 該当なし
+[CHECKED] 全角カッコ: 該当なし
+[CHECKED] H2に「？」: 該当なし
+[CHECKED] <strong>/<b>: 該当なし
+[CHECKED] table class="table1": 全7箇所OK
+[CHECKED] 「でしょう」: 該当なし
+
+H3パーツ存在チェック:
+- id="1b" スポンジ・ボブ: table + marker + say OK
+- id="2b" シンプソンズ: table + marker + say OK
+- id="3b" アバター: table + marker + say OK
+- id="4b" ヒロアカ: table + alert + marker + say OK
+- id="5b" リック・アンド・モーティ: table + marker + say OK
+- id="1c" Netflix: memo + marker + say OK
+- id="2c" Disney+: table + marker + say OK
+- id="3c" YouTube: alert + marker + say OK
+
+============================================================
+ERROR: 0 / WARN: 0
+============================================================
