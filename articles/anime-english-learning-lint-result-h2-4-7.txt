@@ -1,0 +1,28 @@
+============================================================
+lint.sh(nmanablog) — anime-english-learning-body-h2-4-7.html
+============================================================
+手動lint結果(2026-03-18)
+
+## 禁止ワード: 0件
+## AI表現: 0件
+## 比喩表現: 0件
+## 後述系: 0件
+## 冗長表現(という): 1箇所(上限3以内) → OK
+## 指示語: 0件
+## ことです: 0件
+## 全角カッコ: 0件
+## H2に？: 0件
+## <strong>/<b>: 0件
+## table class="table1": 全2箇所OK
+
+## H3パーツ存在チェック
+- id="1d": say○ keiko_yellow○ alert○
+- id="2d": say○ keiko_yellow○ memo○
+- id="3d": say○ keiko_yellow○ memo○
+- id="1e": say○ keiko_yellow○ memo○
+- id="2e": say○ keiko_yellow○ table○
+- id="3e": say○ keiko_yellow○ table○
+
+============================================================
+ERROR:0 / WARN:0
+============================================================
